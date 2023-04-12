@@ -1,7 +1,7 @@
 # 11th_GIT-TEAM3
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=디버깅%203조👍🏻&fontSize=80)
-<div style="text-align=center">
+<div style="display : flex; flex-direction : column; justify-content : center">
 <!-- html5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"/>
 
