@@ -8,6 +8,13 @@
 <!-- css -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/yujin-FAA0A0?style=flat"/>
+<img src="https://img.shields.io/badge/gunwha-FAC898?style=flat"/>
+<img src="https://img.shields.io/badge/sunmyeong-FDFD96?style=flat"/>
+<img src="https://img.shields.io/badge/taehyun-77DD77?style=flat"/>
+<img src="https://img.shields.io/badge/minji-AEC6CF?style=flat"/>
+<img src="https://img.shields.io/badge/kyubin-C3B1E1?style=flat"/>
+
 ### 🧑‍💻 Back-End
 
 |                     고유진                     | 김규빈                                   | 이건화                                 |                       정태현                       |
